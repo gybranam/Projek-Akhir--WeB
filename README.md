@@ -1,4 +1,9 @@
 # pasifi-projekakhir
+Kelompok Pasific
+Gybran Khairul Anam 1402021026
+Mohammad Zaki Ibnu M 1402021032
+Rayhan Alif Zahrandhika Rizqullah 140202021051
+Ridho Rahmat Sejati 1402021053
 
 ## Project setup
 ```
